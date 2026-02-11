@@ -22,6 +22,7 @@ out/
 
 # IDE
 .idea/
+.vs/
 .vscode/
 *.swp
 *.swo
