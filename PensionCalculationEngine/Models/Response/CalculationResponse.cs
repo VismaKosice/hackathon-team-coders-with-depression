@@ -52,7 +52,7 @@ public class CalculationMessage
     [JsonPropertyName("code")]
     public string Code { get; set; } = string.Empty;
 
-    [JsonPropertyName("severity")]
+    [JsonPropertyName("level")]
     public string Severity { get; set; } = string.Empty;
 
     [JsonPropertyName("message")]
