@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="PensionCalculationEngine.IntegrationTests/PensionCalculationEngine.IntegrationTests.csproj" />
   <Project Path="PensionCalculationEngine/PensionCalculationEngine.csproj" />
 </Solution>

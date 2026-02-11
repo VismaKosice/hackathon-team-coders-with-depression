@@ -1,0 +1,31 @@
+# Exclude test projects
+**/PensionCalculationEngine.IntegrationTests/
+
+# Exclude test cases (not needed in production)
+**/test-cases/
+
+# Exclude Git files
+.git/
+.gitignore
+.gitattributes
+
+# Exclude documentation
+*.md
+!README.md
+
+# Exclude IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Exclude build artifacts
+**/bin/
+**/obj/
+
+# Exclude Docker files
+Dockerfile*
+.dockerignore
+
+# Exclude CI/CD files
+.github/
